@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Rania El Aoueyni
 
-<!--
-**el-aoueyni-rania/el-aoueyni-rania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student entrepreneur with a degree in **Information Technology**, specializing in **Information Systems Development**.
 
-Here are some ideas to get you started:
+🎓 Currently, I’m in my **second year of a master’s program** in **Information Systems and Web**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Education
+
+- 🧑‍💻 **Bachelor’s Degree in Information Technology**  
+  Specialization: *Information Systems Development*  
+  🏫 *Higher Institute of Technological Studies of Bizerte (ISET Bizerte)*
+
+- 🧠 **Master’s in Information Systems and Web**  
+  🏫 *High Institute of Informatics in Kef (ISI Kef)*
