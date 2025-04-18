@@ -57,3 +57,5 @@ I am a student entrepreneur with a degree in **Information Technology**, special
   <img src="https://img.shields.io/badge/Agile-SCRUM-blue?style=for-the-badge" alt="Agile SCRUM"/>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el-aoueyni-rania&layout=compact&theme=radical)
+
