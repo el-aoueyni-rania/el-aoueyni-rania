@@ -16,7 +16,7 @@ I am a student entrepreneur with a degree in **Information Technology**, special
   🏫 *High Institute of Informatics in Kef (ISI Kef)*
 
 
-## 🧠 Tech Stack
+## 🧠 Languages and tools
 
 ### 💻 Frontend
 <p>
@@ -56,6 +56,8 @@ I am a student entrepreneur with a degree in **Information Technology**, special
 <p>
   <img src="https://img.shields.io/badge/Agile-SCRUM-blue?style=for-the-badge" alt="Agile SCRUM"/>
 </p>
+
+### 🔥 My Stats :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el-aoueyni-rania&layout=compact&theme=radical)
 
